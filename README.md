@@ -585,25 +585,8 @@ Through this project, I practiced:
 
 ---
 
-# 🎤 Interview Explanation
 
-### 30-second version
 
-> "I built a Domino's pizza sales analysis project using MySQL. The dataset contains order, customer, product, store, payment, discount, and delivery information. I first validated the data and calculated core KPIs such as total orders, pizzas sold, net revenue, and AOV. Then I analyzed sales trends, product and customer performance, store and city performance, discounts, and delivery times. For advanced analysis, I used CTEs and window functions such as RANK, DENSE_RANK, ROW_NUMBER, and LAG to perform Top-N, ranking, revenue contribution, and month-over-month analysis. Finally, I converted the results into business recommendations around product mix, customer retention, promotions, and operations."
-
----
-
-# 📌 Resume Entry
-
-### Domino's Pizza Sales & Business Performance Analysis | MySQL
-
-- Analyzed transactional pizza sales data using **MySQL** to evaluate revenue, order trends, product performance, customer behavior, store performance, discounts, and delivery operations.
-- Applied **CTEs, subqueries, CASE statements, aggregations, and window functions** including RANK(), DENSE_RANK(), ROW_NUMBER(), and LAG() for Top-N analysis, revenue contribution, store ranking, and month-over-month growth.
-- Translated SQL analysis into business insights across **products, customers, cities, stores, ordering channels, discounts, and delivery performance**.
-
-**Skills:** MySQL | SQL | Data Analysis | CTEs | Window Functions | Business Analytics | KPI Analysis
-
----
 
 # ⭐ Project Highlights
 
