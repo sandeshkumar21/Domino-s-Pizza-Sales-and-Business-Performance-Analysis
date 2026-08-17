@@ -1,4 +1,4 @@
-# 🍕 Domino's Pizza Sales Analysis — MySQL
+# 🍕 Domino's Pizza Sales and Business Performance Analysis — MySQL
 
 > **SQL Data Analytics Project | MySQL | MySQL Workbench | Advanced SQL**
 
